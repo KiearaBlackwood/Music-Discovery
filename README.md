@@ -1,7 +1,7 @@
 # WEB103 Project 1 - Music Discovery
 Submitted by: Kieara Blackwood
 
-About this web app: App 1: Discover Local Music
+About this web app: App 1: Discover Local Music - 
 This app helps students find upcoming concerts, open mic nights, and music festivals happening near their college or university. Whether you're into indie, hip-hop, EDM, or acoustic sets, you can filter by genre, ticket price, or venue size. Users can click on an event to see more details, like the artist lineup, date and time, and ticket price.
 
 Time spent: 8 hours
