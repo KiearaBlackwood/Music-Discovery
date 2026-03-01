@@ -43,7 +43,7 @@ GIF created with ...  Add GIF tool here
 
 ## Notes
 
-One of the main challenges that I had was managing the layout of the events and getting the server up and running. 
+One of the main challenges that I had was managing the layout of the events using Picocss and getting the server up and running. 
 ## License
 
 Copyright [2026] [Kieara Blackwood]
