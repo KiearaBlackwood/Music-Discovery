@@ -3,7 +3,7 @@ Submitted by: Kieara Blackwood
 
 About this web app: **App description here**
 
-Time spent: 6 hours
+Time spent: 8 hours
 
 ## Required Features
 
