@@ -1,9 +1,10 @@
 # WEB103 Project 1 - Music Discovery
 Submitted by: Kieara Blackwood
 
-About this web app: **App description here**
+About this web app: App 1: Discover Local Music - 
+This app helps students find upcoming concerts, open mic nights, and music festivals happening near their college or university. Whether you're into indie, hip-hop, EDM, or acoustic sets, you can filter by genre, ticket price, or venue size. Users can click on an event to see more details, like the artist lineup, date and time, and ticket price.
 
-Time spent: 6 hours
+Time spent: 8 hours
 
 ## Required Features
 
@@ -32,18 +33,17 @@ The following **additional** features are implemented:
 **Note: please be sure to 
 
 Here's a walkthrough of implemented required features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/user-attachments/assets/4611a03d-cde2-4e1e-a56f-2e2b44b36cb7
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Add GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS -->
+
+[Kap]([Kapture 2026-03-01 at 16.19.22.pdf](https://github.com/user-attachments/files/25667495/Kapture.2026-03-01.at.16.19.22.pdf)
+) 
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
-
+One of the main challenges that I had was managing the layout of the events using Picocss and getting the server up and running. 
 ## License
 
 Copyright [2026] [Kieara Blackwood]
