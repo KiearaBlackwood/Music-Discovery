@@ -30,6 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+https://github.com/user-attachments/assets/2f79c036-2d29-40f5-8ad6-ebf2ae13620f
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
